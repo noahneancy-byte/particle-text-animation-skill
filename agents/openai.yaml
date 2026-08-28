@@ -1,0 +1,4 @@
+interface:
+  display_name: "Particle Text Animation"
+  short_description: "Build interactive particle-formed text in React"
+  default_prompt: "Use $particle-text-animation to add an interactive particle text animation to this React interface."
