@@ -1,5 +1,8 @@
 # Particle Text Animation Skill
 
+> [!IMPORTANT]
+> This Skill is now maintained in the [Frontend UI Motion Skills](https://github.com/noahneancy-byte/frontend-ui-motion-skills/tree/main/skills/particle-text-animation) collection. This standalone repository remains available so existing links continue to work.
+
 A reusable Codex Skill for adding interactive, canvas-rendered particle text to React interfaces. It includes an original dependency-free React component with scatter-to-text assembly, cursor repulsion, responsive font sampling, glow, and reduced-motion support.
 
 ## Install
